@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="292950f9-8152-4b7c-b59e-b9316b250178" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/interview_preparation_kit/arrays/MinimumSwaps2.kt" afterDir="false" />
