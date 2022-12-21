@@ -4,6 +4,7 @@ Welcome to koltin playground where we intend to learn more about kotlin by solvi
 
 ### Challenges
 Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.com)
+Currently working on Interview Prep challenges
 
 ## Checklist
 Here is the list of challenges to solve. Solved challenges are checked.
