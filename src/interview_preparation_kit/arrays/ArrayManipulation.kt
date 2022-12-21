@@ -11,6 +11,8 @@ return the maximum value in the array.
 
  Support resource for solution: https://stackoverflow.com/questions/56249944/array-manipulation-hackerrank-questions-java
  including explanation of steps to avoid timeout exception.
+
+ IN PROGRESS, failing 10/16 tests. Larger arrays fail.
  **/
 
 /*
@@ -59,9 +61,12 @@ fun main(args: Array<String>) {
         queries[i] = readLine()!!.trimEnd().split(" ").map{ it.toInt() }.toTypedArray()
     }
 
-    val result = arrayManipulation(n, queries)
+    /**
+     * Commented out to get rid of error in file
+     */
+   // val result = arrayManipulation(n, queries)
 
-    println(result)
+  //  println(result)
 }
 
 /*
