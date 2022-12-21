@@ -29,7 +29,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
     - [ ] 2D Array DS
     - [ ] Left Rotation
     - [ ] New Year Chaos
-    - [ ] Minimum Swaps 2
+    - [x] Minimum Swaps 2 
+      | Challenge: [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+      | Solution: [MinimumSwaps2.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/MinimumSwaps2.kt)
     - [ ] Array Manipulation
   - [ ] Dictionaries and Hashmaps
   - [ ] Dynamic Programming
