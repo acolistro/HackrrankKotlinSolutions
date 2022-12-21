@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="292950f9-8152-4b7c-b59e-b9316b250178" name="Default Changelist" comment="" />
+    <list default="true" id="292950f9-8152-4b7c-b59e-b9316b250178" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interview_preparation_kit/arrays/ArrayManipulation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +121,14 @@
       <recent name="E:\xxxxxxxx\kotlin\hackerrank\src\interview_preparation_kit\warmup_challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.algorithms.EqualizeTheArrayKt">
+  <component name="RunManager" selected="Kotlin.ArrayManipulationKt">
+    <configuration name="ArrayManipulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_preparation_kit.arrays.ArrayManipulationKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="algorithms.EqualizeTheArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.EqualizeTheArrayKt" />
       <module name="kotlin" />
@@ -135,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayManipulationKt" />
         <item itemvalue="Kotlin.algorithms.EqualizeTheArrayKt" />
         <item itemvalue="Kotlin.interview_preparation_kit.warmup_challenges.CountingValleysKt" />
       </list>
