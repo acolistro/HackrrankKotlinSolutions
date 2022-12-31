@@ -28,7 +28,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
 - [ ] Interview Preparations Kit
   - [ ] Arrays
     - [ ] 2D Array DS
-    - [ ] Left Rotation
+    - [x] Left Rotation
+      | Challenge: [LeftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+      | Solution: [LeftRotation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/LeftRotation.kt)
     - [ ] New Year Chaos
     - [x] Minimum Swaps 2 
       | Challenge: [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
