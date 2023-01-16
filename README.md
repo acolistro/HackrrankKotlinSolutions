@@ -42,6 +42,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
       | Challenge: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
       | In Progress: [ArrayManipulation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/ArrayManipulation.kt)
   - [ ] Dictionaries and Hashmaps
+    - [x] Ransom Note
+      | Challenge: [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
+      | Solution: [RansomNote.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/HashTablesRansomNote.kt)
   - [ ] Dynamic Programming
   - [ ] Graphs
   - [ ] Greedy Algorithms
