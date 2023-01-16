@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="292950f9-8152-4b7c-b59e-b9316b250178" name="Default Changelist" comment="" />
+    <list default="true" id="292950f9-8152-4b7c-b59e-b9316b250178" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/interview_preparation_kit/dictionaries_and_hashmaps/HashTablesRansomNote.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_preparation_kit/dictionaries_and_hashmaps/HashTablesRansomNote.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
