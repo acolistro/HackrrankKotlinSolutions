@@ -1,10 +1,9 @@
-Kotlin playground :fire:
+Kotlin Hackerrank Solutions :fire:
 ============
-Welcome to koltin playground where we intend to learn more about kotlin by solving challenges.
 
 ### Challenges
 Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.com)
-Currently working on Interview Prep challenges
+- Currently working on Interview Prep challenges
 
 ## Checklist
 Here is the list of challenges to solve. Solved challenges are checked.
@@ -27,7 +26,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
   - [ ] Left Rotation
 - [ ] Interview Preparations Kit
   - [ ] Arrays
-    - [ ] 2D Array DS
+    - [x] 2D Array DS
+    - | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+    - | Solution: [2DArrayDS.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/2DArrayDS.kt)
     - [x] Left Rotation
       | Challenge: [LeftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
       | Solution: [LeftRotation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/LeftRotation.kt)
