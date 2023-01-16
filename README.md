@@ -27,8 +27,8 @@ Here is the list of challenges to solve. Solved challenges are checked.
 - [ ] Interview Preparations Kit
   - [ ] Arrays
     - [x] 2D Array DS
-    - | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
-    - | Solution: [2DArrayDS.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/2DArrayDS.kt)
+      | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+      | Solution: [2DArrayDS.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/2DArrayDS.kt)
     - [x] Left Rotation
       | Challenge: [LeftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
       | Solution: [LeftRotation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/LeftRotation.kt)
