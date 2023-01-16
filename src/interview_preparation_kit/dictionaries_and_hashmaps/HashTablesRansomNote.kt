@@ -16,6 +16,9 @@ import kotlin.text.*
  * The function accepts following parameters:
  *  1. STRING_ARRAY magazine
  *  2. STRING_ARRAY note
+ *
+ *  resources: https://levelup.gitconnected.com/ransom-note-challenge-in-kotlin-bfe334fe2e15
+ *  https://www.typeerror.org/docs/kotlin~1.6/api/latest/jvm/stdlib/kotlin/get-or-default
  */
 
 fun checkMagazine(magazine: Array<String>, note: Array<String>): Unit {
