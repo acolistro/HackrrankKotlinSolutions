@@ -45,6 +45,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
     - [x] Ransom Note
       | Challenge: [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
       | Solution: [RansomNote.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/HashTablesRansomNote.kt)
+    - [x] Two Strings
+      | Challenge: [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
+      | Solution: [TwoStrings.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/TwoStrings.kt)
   - [ ] Dynamic Programming
   - [ ] Graphs
   - [ ] Greedy Algorithms
