@@ -27,12 +27,14 @@ Here is the list of challenges to solve. Solved challenges are checked.
 - [ ] Interview Preparations Kit
   - [ ] Arrays
     - [x] 2D Array DS
-      | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+      | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem)
       | Solution: [2DArrayDS.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/2DArrayDS.kt)
     - [x] Left Rotation
-      | Challenge: [LeftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+      | Challenge: [LeftRotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
       | Solution: [LeftRotation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/LeftRotation.kt)
-    - [ ] New Year Chaos
+    - [x] New Year Chaos
+      | Challenge: [New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)
+      | Solution: [NewYearsChaos.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/NewYearsChaos.kt)
     - [x] Minimum Swaps 2 
       | Challenge: [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
       | Solution: [MinimumSwaps2.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/MinimumSwaps2.kt)
