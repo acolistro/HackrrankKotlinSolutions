@@ -77,7 +77,7 @@ Here is the list of challenges to solve. Solved challenges are checked.
   - [ ] Day Seven
   - [x] Day Eight: Dictionaries and Hashmaps
     | Challenge: [Day 8](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
-    | Solution: 
+    | Solution: [Day8.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/thirty_days_of_code/Day8.kt)
 
 ### Issues
 Please report bugs using the [GitHub issue tracker](https://github.com/acolistro/HackrrankKotlinSolutions/issues)
