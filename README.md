@@ -48,6 +48,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
     - [x] Two Strings
       | Challenge: [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
       | Solution: [TwoStrings.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/TwoStrings.kt)
+    - [x] Sherlock and Anagrams
+      | Challenge: [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+      | Solution: [SherlockAndAnagrams.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/SherlockAndAnagrams.kt)
   - [ ] Dynamic Programming
   - [ ] Graphs
   - [ ] Greedy Algorithms
