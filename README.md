@@ -38,9 +38,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
     - [x] Minimum Swaps 2 
       | Challenge: [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
       | Solution: [MinimumSwaps2.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/MinimumSwaps2.kt)
-    - [ ] Array Manipulation
+    - [x] Array Manipulation
       | Challenge: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
-      | In Progress: [ArrayManipulation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/ArrayManipulation.kt)
+      | Solution: [ArrayManipulation.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/ArrayManipulation.kt)
   - [ ] Dictionaries and Hashmaps
     - [x] Ransom Note
       | Challenge: [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
@@ -49,7 +49,7 @@ Here is the list of challenges to solve. Solved challenges are checked.
       | Challenge: [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
       | Solution: [TwoStrings.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/TwoStrings.kt)
     - [x] Sherlock and Anagrams
-      | Challenge: [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+      | Challenge: [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
       | Solution: [SherlockAndAnagrams.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/dictionaries_and_hashmaps/SherlockAndAnagrams.kt)
   - [ ] Dynamic Programming
   - [ ] Graphs
