@@ -25,7 +25,7 @@ Here is the list of challenges to solve. Solved challenges are checked.
 - [ ] Data Structures
   - [ ] Left Rotation
 - [ ] Interview Preparations Kit
-  - [ ] Arrays
+  - [x] Arrays
     - [x] 2D Array DS
       | Challenge [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem)
       | Solution: [2DArrayDS.kt](https://github.com/acolistro/HackrrankKotlinSolutions/blob/main/src/interview_preparation_kit/arrays/2DArrayDS.kt)
